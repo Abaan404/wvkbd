@@ -1,3 +1,10 @@
+#pragma once
+
+#include <linux/input-event-codes.h>
+#include <stddef.h>
+#include <sys/mman.h>
+#include "keyboard.h"
+
 /* constants */
 /* how tall the keyboard should be by default (can be overriden) */
 #define KBD_PIXEL_HEIGHT 250

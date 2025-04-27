@@ -7,4 +7,6 @@ include/config.h
 *.log
 wvkbd
 config.h
-wvkbd-mobintl
+wvkbd-*
+.cache
+compile_commands.json
