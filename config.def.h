@@ -3,7 +3,7 @@
 
 #include "keyboard.h"
 
-#define DEFAULT_FONT "Sans 14"
+#define DEFAULT_FONT "JetBrainsMono NF 14"
 #define DEFAULT_ROUNDING 5
 static const int transparency = 255;
 
